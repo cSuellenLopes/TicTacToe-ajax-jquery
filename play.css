@@ -21,3 +21,6 @@ table { border-collapse: collapse;
     text-align: center;
 
 }
+
+
+#dashboard tr td:hover {background-color: silver; cursor: pointer; transition: 0.5s;}
